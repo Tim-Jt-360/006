@@ -1,0 +1,14 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_8404AAD6_8F76_0F06_41DE_5EA35F0AF051.label = Bad
+panorama_8397FE56_8F76_0706_4180_3AD61FB86009.label = Zimmer
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Fürstenlandstrasse
