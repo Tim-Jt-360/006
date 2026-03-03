@@ -3,8 +3,8 @@
 ## Media
 
 ### Título
-panorama_8404AAD6_8F76_0F06_41DE_5EA35F0AF051.label = Bad
-panorama_8397FE56_8F76_0706_4180_3AD61FB86009.label = Zimmer
+panorama_B8E01A12_B454_1F94_41C3_622243164958.label = Bad
+panorama_BFB7D562_B454_75B4_41D2_ED481ADFFA44.label = Zimmer
 
 ## Tour
 
